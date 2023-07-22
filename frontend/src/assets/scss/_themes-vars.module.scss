@@ -1,0 +1,20 @@
+// main
+$main: #191a1a;
+$white: #ffffff;
+
+//button
+$btn_hover: #2a2b2b;
+$btn_hover2: #bbc9c9;
+
+//dialog
+$dialog_bg: #22272B;
+
+
+// ==============================|| JAVASCRIPT ||============================== //
+:export {
+    main: $main;
+    white: $white;
+    btn_hover: $btn_hover;
+    btn_hover2: $btn_hover2;
+    dialog_bg: $dialog_bg;
+}

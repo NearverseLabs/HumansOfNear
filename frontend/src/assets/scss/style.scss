@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Light.ttf') format('truetype');
+  /* Adjust the URL based on the location of your font file */
+}
+
+
+body {
+  font-family: "Poppins";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: white;
+}

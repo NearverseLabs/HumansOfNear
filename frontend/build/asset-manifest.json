@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c06e26f.css",
+    "main.js": "/static/js/main.b9e8bc35.js",
+    "static/js/481.6621905f.chunk.js": "/static/js/481.6621905f.chunk.js",
+    "static/js/323.94aaf1ec.chunk.js": "/static/js/323.94aaf1ec.chunk.js",
+    "static/js/318.f2576ad6.chunk.js": "/static/js/318.f2576ad6.chunk.js",
+    "static/js/mapbox-gl-csp-worker.053e1160.worker.js": "/static/js/mapbox-gl-csp-worker.053e1160.worker.js",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/logo.svg": "/static/media/logo.00ce86b56e35961cfdc360d439c05fb7.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8c06e26f.css",
+    "static/js/main.b9e8bc35.js"
+  ]
+}
